@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": ["Harry", "Potter"],
+    "grades": { "Defense Against the Dark Arts": "A+", "Potions": "A+" }
+  },
+  {
+    "id": 2,
+    "name": ["Hermione", "Granger"],
+    "grades": { "Muggle Studies": "A+", "Herbology": "A+" }
+  }
+]
